@@ -1,0 +1,16 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,rei_id,rei_name,metric_id,metric_name,year,val,upper,lower
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,9,20-24 years,429,Breast cancer,108,High body-mass index,3,Rate,2019,-0.888901669,-0.00086197415,-1.96580946
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,10,25-29 years,429,Breast cancer,108,High body-mass index,3,Rate,2019,-2.91623559,-0.00199186603,-6.327511277
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,11,30-34 years,429,Breast cancer,108,High body-mass index,3,Rate,2019,-7.94238104,-0.00585275833,-17.47178214
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,12,35-39 years,429,Breast cancer,108,High body-mass index,3,Rate,2019,-17.12152249,-0.01609830027,-37.86220991
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,13,40-44 years,429,Breast cancer,108,High body-mass index,3,Rate,2019,-28.12832188,-0.0242270203,-63.52491519
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,14,45-49 years,429,Breast cancer,108,High body-mass index,3,Rate,2019,-38.22948151,-0.02966669756,-84.05361588
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,15,50-54 years,429,Breast cancer,108,High body-mass index,3,Rate,2019,114.8640708,229.6943073,-3.510039605
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,16,55-59 years,429,Breast cancer,108,High body-mass index,3,Rate,2019,134.6023974,272.4488654,-3.882811703
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,17,60-64 years,429,Breast cancer,108,High body-mass index,3,Rate,2019,133.1055071,262.6764068,-3.922618435
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,18,65-69 years,429,Breast cancer,108,High body-mass index,3,Rate,2019,130.4236094,257.4035062,-3.701868401
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,19,70-74 years,429,Breast cancer,108,High body-mass index,3,Rate,2019,125.7218256,250.8317501,-3.647113889
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,20,75-79 years,429,Breast cancer,108,High body-mass index,3,Rate,2019,121.6014536,245.7103832,-3.450435969
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,30,80-84 years,429,Breast cancer,108,High body-mass index,3,Rate,2019,112.3441798,233.5507212,-3.050182614
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,31,85-89 years,429,Breast cancer,108,High body-mass index,3,Rate,2019,129.8496267,266.1237933,-3.38834738
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,32,90-94 years,429,Breast cancer,108,High body-mass index,3,Rate,2019,164.8813755,341.0394083,-4.37921017
